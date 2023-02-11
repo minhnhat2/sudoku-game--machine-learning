@@ -1,5 +1,5 @@
 import turtle
-import random
+import random 
 import math
 import time
 import os
@@ -798,5 +798,5 @@ while True:
     if mode == 'human':
         difficulty_screen()
     play_game()
-    time.sleep(0.01)
+    time.sleep(0.01) 
 # screen.exitonclick()
